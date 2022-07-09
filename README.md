@@ -48,6 +48,7 @@ As a new visitor to this website, i would like to see:
   * a contact-us form (name, email and message form)
   
   * MailTrap has been implemented, thus booking an appointment or using the contact-us form will be sent to my account.
+  
   ![emails](https://user-images.githubusercontent.com/90277864/178124837-c90c941a-a766-4ca0-afcc-319b0a71f2b8.png)
   
   ## Languages Used: 
