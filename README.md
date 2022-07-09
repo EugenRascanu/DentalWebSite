@@ -74,12 +74,22 @@ This was the primary method of testing the application. Friends and family were 
 to book for an appointment and to use the contact-us form. The feedback was very useful to determine any bugs that may have been present.
 I also tested the app manually myself on a varietly of browsers.
 
+## Browsers used for testing:
+
+ * Google Chrome 
+ * Mozilla Firefox
+ * Microsoft Edge
+
+
+Manual testing was carried out using the above browsers, and also on mobile devices. No bugs or desplay issues could be identified.
+
+
 ## Bugs:
 
 * When booking an appointment and/or using the contact-us form, the user would get this error:
 ![error](https://user-images.githubusercontent.com/90277864/178125421-b3fc5b7d-97c6-4cda-956a-ea563519b827.jpg)
 
- * Email and contact form were not properly implemented. It has been now fixed.
+ * Email and contact form were not properly implemented through the email service. It has been now fixed.
  
  ## Local Deployment
  
