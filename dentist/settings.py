@@ -123,8 +123,8 @@ STATICFILES_DIRS = [
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 EMAIL_HOST = 'smtp.mailtrap.io'
-EMAIL_HOST_USER = '5daf8b14b70c46'
-EMAIL_HOST_PASSWORD = 'e57ca87f8668d3'
+EMAIL_HOST_USER = '82fb2edbe3838a'
+EMAIL_HOST_PASSWORD = 'b154a714919f8d'
 EMAIL_PORT = '2525'
 
 
