@@ -51,7 +51,7 @@ def appointment(request):
 			'Appointment Request', # subject
 			appointment, # message
 			your_email, # from email
-			['john@codemy.com'], # To Email
+			[''], # To Email
 			)
 		
 		return render(request, 'appointment.html', {
