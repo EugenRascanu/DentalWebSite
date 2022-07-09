@@ -15,7 +15,7 @@ def contact(request):
 			message_name, # subject
 			message, # message
 			message_email, # from email
-			['eugen.rascanu88@gmail.com'], # To Email
+			['info.dento@doe.com'], # To Email
 			)
 
 		return render(request, 'contact.html', {'message_name': message_name})
@@ -51,7 +51,7 @@ def appointment(request):
 			'Appointment Request', # subject
 			appointment, # message
 			your_email, # from email
-			[''], # To Email
+			['info.dento@doe.com'], # To Email
 			)
 		
 		return render(request, 'appointment.html', {
